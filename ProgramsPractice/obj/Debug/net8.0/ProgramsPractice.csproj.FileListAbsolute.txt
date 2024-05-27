@@ -1,0 +1,14 @@
+C:\C # Programs\ProgramsPractice\ProgramsPractice\bin\Debug\net8.0\ProgramsPractice.exe
+C:\C # Programs\ProgramsPractice\ProgramsPractice\bin\Debug\net8.0\ProgramsPractice.deps.json
+C:\C # Programs\ProgramsPractice\ProgramsPractice\bin\Debug\net8.0\ProgramsPractice.runtimeconfig.json
+C:\C # Programs\ProgramsPractice\ProgramsPractice\bin\Debug\net8.0\ProgramsPractice.dll
+C:\C # Programs\ProgramsPractice\ProgramsPractice\bin\Debug\net8.0\ProgramsPractice.pdb
+C:\C # Programs\ProgramsPractice\ProgramsPractice\obj\Debug\net8.0\ProgramsPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\C # Programs\ProgramsPractice\ProgramsPractice\obj\Debug\net8.0\ProgramsPractice.AssemblyInfoInputs.cache
+C:\C # Programs\ProgramsPractice\ProgramsPractice\obj\Debug\net8.0\ProgramsPractice.AssemblyInfo.cs
+C:\C # Programs\ProgramsPractice\ProgramsPractice\obj\Debug\net8.0\ProgramsPractice.csproj.CoreCompileInputs.cache
+C:\C # Programs\ProgramsPractice\ProgramsPractice\obj\Debug\net8.0\ProgramsPractice.dll
+C:\C # Programs\ProgramsPractice\ProgramsPractice\obj\Debug\net8.0\refint\ProgramsPractice.dll
+C:\C # Programs\ProgramsPractice\ProgramsPractice\obj\Debug\net8.0\ProgramsPractice.pdb
+C:\C # Programs\ProgramsPractice\ProgramsPractice\obj\Debug\net8.0\ProgramsPractice.genruntimeconfig.cache
+C:\C # Programs\ProgramsPractice\ProgramsPractice\obj\Debug\net8.0\ref\ProgramsPractice.dll
