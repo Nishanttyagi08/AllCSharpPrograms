@@ -1,0 +1,14 @@
+C:\C # Programs\Marksheet\Marksheet\bin\Debug\net8.0\Marksheet.exe
+C:\C # Programs\Marksheet\Marksheet\bin\Debug\net8.0\Marksheet.deps.json
+C:\C # Programs\Marksheet\Marksheet\bin\Debug\net8.0\Marksheet.runtimeconfig.json
+C:\C # Programs\Marksheet\Marksheet\bin\Debug\net8.0\Marksheet.dll
+C:\C # Programs\Marksheet\Marksheet\bin\Debug\net8.0\Marksheet.pdb
+C:\C # Programs\Marksheet\Marksheet\obj\Debug\net8.0\Marksheet.GeneratedMSBuildEditorConfig.editorconfig
+C:\C # Programs\Marksheet\Marksheet\obj\Debug\net8.0\Marksheet.AssemblyInfoInputs.cache
+C:\C # Programs\Marksheet\Marksheet\obj\Debug\net8.0\Marksheet.AssemblyInfo.cs
+C:\C # Programs\Marksheet\Marksheet\obj\Debug\net8.0\Marksheet.csproj.CoreCompileInputs.cache
+C:\C # Programs\Marksheet\Marksheet\obj\Debug\net8.0\Marksheet.dll
+C:\C # Programs\Marksheet\Marksheet\obj\Debug\net8.0\refint\Marksheet.dll
+C:\C # Programs\Marksheet\Marksheet\obj\Debug\net8.0\Marksheet.pdb
+C:\C # Programs\Marksheet\Marksheet\obj\Debug\net8.0\Marksheet.genruntimeconfig.cache
+C:\C # Programs\Marksheet\Marksheet\obj\Debug\net8.0\ref\Marksheet.dll
